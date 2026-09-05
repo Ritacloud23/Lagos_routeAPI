@@ -1,0 +1,850 @@
+{
+ "routes": [
+  {
+   "route_number": 2,
+   "name": "Egbeda to Ketu",
+   "start": "Egbeda",
+   "end": "Ketu",
+   "fare_naira": 600,
+   "stops": [
+    "Egbeda",
+    "Maryland",
+    "Yaba",
+    "Ketu"
+   ]
+  },
+  {
+   "route_number": 11,
+   "name": "Ikorodu to Ojota",
+   "start": "Ikorodu",
+   "end": "Ojota",
+   "fare_naira": 800,
+   "stops": [
+    "Ikorodu",
+    "Festac",
+    "Ajah",
+    "Ojota"
+   ]
+  },
+  {
+   "route_number": 14,
+   "name": "Oshodi \u2014 Ajah Express",
+   "start": "Oshodi",
+   "end": "Ajah",
+   "fare_naira": 1000,
+   "stops": [
+    "Oshodi",
+    "CMS",
+    "Iyana-Ipaja",
+    "Ikeja",
+    "Egbeda",
+    "Mile 2",
+    "Festac",
+    "Yaba",
+    "Ajah"
+   ]
+  },
+  {
+   "route_number": 21,
+   "name": "Yaba to CMS",
+   "start": "Yaba",
+   "end": "CMS",
+   "fare_naira": 400,
+   "stops": [
+    "Yaba",
+    "Mile 2",
+    "Victoria Island",
+    "CMS"
+   ]
+  },
+  {
+   "route_number": 29,
+   "name": "Surulere to Agege",
+   "start": "Surulere",
+   "end": "Agege",
+   "fare_naira": 600,
+   "stops": [
+    "Surulere",
+    "Ketu",
+    "Ikeja",
+    "Agege"
+   ]
+  },
+  {
+   "route_number": 34,
+   "name": "Ojota to Ikeja",
+   "start": "Ojota",
+   "end": "Ikeja",
+   "fare_naira": 300,
+   "stops": [
+    "Ojota",
+    "Ikorodu",
+    "Yaba",
+    "Lekki",
+    "Ketu",
+    "Apapa",
+    "Ikeja"
+   ]
+  },
+  {
+   "route_number": 36,
+   "name": "Oshodi to Mile 2",
+   "start": "Oshodi",
+   "end": "Mile 2",
+   "fare_naira": 600,
+   "stops": [
+    "Oshodi",
+    "Lekki",
+    "Apapa",
+    "Ikeja",
+    "Agege",
+    "Iyana-Ipaja",
+    "Ojota",
+    "Mile 2"
+   ]
+  },
+  {
+   "route_number": 41,
+   "name": "Lekki to Egbeda",
+   "start": "Lekki",
+   "end": "Egbeda",
+   "fare_naira": 400,
+   "stops": [
+    "Lekki",
+    "Maryland",
+    "Ketu",
+    "Egbeda"
+   ]
+  },
+  {
+   "route_number": 44,
+   "name": "Obalende to Yaba",
+   "start": "Obalende",
+   "end": "Yaba",
+   "fare_naira": 1000,
+   "stops": [
+    "Obalende",
+    "Ojota",
+    "Egbeda",
+    "Ikorodu",
+    "Agege",
+    "Surulere",
+    "Apapa",
+    "Yaba"
+   ]
+  },
+  {
+   "route_number": 48,
+   "name": "Victoria Island \u2014 Apapa Express",
+   "start": "Victoria Island",
+   "end": "Apapa",
+   "fare_naira": 1200,
+   "stops": [
+    "Victoria Island",
+    "Berger",
+    "Yaba",
+    "Apapa"
+   ]
+  },
+  {
+   "route_number": 61,
+   "name": "Mile 2 \u2014 Apapa Express",
+   "start": "Mile 2",
+   "end": "Apapa",
+   "fare_naira": 300,
+   "stops": [
+    "Mile 2",
+    "Obalende",
+    "Victoria Island",
+    "Apapa"
+   ]
+  },
+  {
+   "route_number": 69,
+   "name": "CMS to Maryland",
+   "start": "CMS",
+   "end": "Maryland",
+   "fare_naira": 400,
+   "stops": [
+    "CMS",
+    "Iyana-Ipaja",
+    "Agege",
+    "Ojota",
+    "Ketu",
+    "Berger",
+    "Surulere",
+    "Maryland"
+   ]
+  },
+  {
+   "route_number": 86,
+   "name": "Ojota to Ikorodu",
+   "start": "Ojota",
+   "end": "Ikorodu",
+   "fare_naira": 800,
+   "stops": [
+    "Ojota",
+    "Berger",
+    "Ketu",
+    "Ikorodu"
+   ]
+  },
+  {
+   "route_number": 87,
+   "name": "Surulere to Festac",
+   "start": "Surulere",
+   "end": "Festac",
+   "fare_naira": 500,
+   "stops": [
+    "Surulere",
+    "Apapa",
+    "CMS",
+    "Oshodi",
+    "Festac"
+   ]
+  },
+  {
+   "route_number": 96,
+   "name": "Mile 2 \u2014 Lekki Express",
+   "start": "Mile 2",
+   "end": "Lekki",
+   "fare_naira": 1200,
+   "stops": [
+    "Mile 2",
+    "Surulere",
+    "CMS",
+    "Lekki"
+   ]
+  },
+  {
+   "route_number": 98,
+   "name": "Ajah to Maryland",
+   "start": "Ajah",
+   "end": "Maryland",
+   "fare_naira": 700,
+   "stops": [
+    "Ajah",
+    "CMS",
+    "Ojota",
+    "Apapa",
+    "Ikeja",
+    "Maryland"
+   ]
+  },
+  {
+   "route_number": 109,
+   "name": "Surulere to Ikeja",
+   "start": "Surulere",
+   "end": "Ikeja",
+   "fare_naira": 1000,
+   "stops": [
+    "Surulere",
+    "Victoria Island",
+    "Obalende",
+    "Lekki",
+    "Oshodi",
+    "Mile 2",
+    "Festac",
+    "Yaba",
+    "Ikeja"
+   ]
+  },
+  {
+   "route_number": 116,
+   "name": "Ketu \u2014 Lekki Express",
+   "start": "Ketu",
+   "end": "Lekki",
+   "fare_naira": 400,
+   "stops": [
+    "Ketu",
+    "Festac",
+    "Egbeda",
+    "Maryland",
+    "Oshodi",
+    "CMS",
+    "Surulere",
+    "Victoria Island",
+    "Lekki"
+   ]
+  },
+  {
+   "route_number": 119,
+   "name": "Lekki to Ikorodu",
+   "start": "Lekki",
+   "end": "Ikorodu",
+   "fare_naira": 1000,
+   "stops": [
+    "Lekki",
+    "Mile 2",
+    "Ajah",
+    "Ikorodu"
+   ]
+  },
+  {
+   "route_number": 129,
+   "name": "Ikeja to Lekki",
+   "start": "Ikeja",
+   "end": "Lekki",
+   "fare_naira": 1000,
+   "stops": [
+    "Ikeja",
+    "Agege",
+    "Apapa",
+    "Yaba",
+    "Maryland",
+    "CMS",
+    "Obalende",
+    "Lekki"
+   ]
+  },
+  {
+   "route_number": 142,
+   "name": "Agege to Festac",
+   "start": "Agege",
+   "end": "Festac",
+   "fare_naira": 400,
+   "stops": [
+    "Agege",
+    "Ketu",
+    "Ikeja",
+    "Apapa",
+    "Oshodi",
+    "Maryland",
+    "Yaba",
+    "Festac"
+   ]
+  },
+  {
+   "route_number": 155,
+   "name": "Yaba \u2014 Iyana-Ipaja Express",
+   "start": "Yaba",
+   "end": "Iyana-Ipaja",
+   "fare_naira": 600,
+   "stops": [
+    "Yaba",
+    "Oshodi",
+    "Agege",
+    "Victoria Island",
+    "Obalende",
+    "Apapa",
+    "Iyana-Ipaja"
+   ]
+  },
+  {
+   "route_number": 157,
+   "name": "Berger to Ikorodu",
+   "start": "Berger",
+   "end": "Ikorodu",
+   "fare_naira": 300,
+   "stops": [
+    "Berger",
+    "Agege",
+    "Mile 2",
+    "Oshodi",
+    "Apapa",
+    "Ikorodu"
+   ]
+  },
+  {
+   "route_number": 158,
+   "name": "Ojota \u2014 Victoria Island Express",
+   "start": "Ojota",
+   "end": "Victoria Island",
+   "fare_naira": 400,
+   "stops": [
+    "Ojota",
+    "Ikeja",
+    "Ketu",
+    "Ajah",
+    "CMS",
+    "Festac",
+    "Maryland",
+    "Victoria Island"
+   ]
+  },
+  {
+   "route_number": 174,
+   "name": "CMS to Obalende",
+   "start": "CMS",
+   "end": "Obalende",
+   "fare_naira": 800,
+   "stops": [
+    "CMS",
+    "Agege",
+    "Victoria Island",
+    "Oshodi",
+    "Ojota",
+    "Berger",
+    "Ikeja",
+    "Obalende"
+   ]
+  },
+  {
+   "route_number": 180,
+   "name": "CMS \u2014 Berger Express",
+   "start": "CMS",
+   "end": "Berger",
+   "fare_naira": 800,
+   "stops": [
+    "CMS",
+    "Lekki",
+    "Ojota",
+    "Agege",
+    "Iyana-Ipaja",
+    "Yaba",
+    "Berger"
+   ]
+  },
+  {
+   "route_number": 181,
+   "name": "Ikorodu \u2014 Berger Express",
+   "start": "Ikorodu",
+   "end": "Berger",
+   "fare_naira": 400,
+   "stops": [
+    "Ikorodu",
+    "Ajah",
+    "Mile 2",
+    "Yaba",
+    "Berger"
+   ]
+  },
+  {
+   "route_number": 200,
+   "name": "Ikeja to Victoria Island",
+   "start": "Ikeja",
+   "end": "Victoria Island",
+   "fare_naira": 800,
+   "stops": [
+    "Ikeja",
+    "Surulere",
+    "CMS",
+    "Iyana-Ipaja",
+    "Obalende",
+    "Victoria Island"
+   ]
+  }
+ ],
+ "buses": [
+  {
+   "plate": "WCA-881NF",
+   "bus_type": "danfo",
+   "route_number": 44,
+   "driver": "Friday Adewale",
+   "seats": 3
+  },
+  {
+   "plate": "NKX-586WP",
+   "bus_type": "brt",
+   "route_number": 142,
+   "driver": "Sunday Musa",
+   "seats": 14
+  },
+  {
+   "plate": "HUZ-905ZK",
+   "bus_type": "brt",
+   "route_number": 48,
+   "driver": "Emeka Adewale",
+   "seats": 18
+  },
+  {
+   "plate": "LKI-676JV",
+   "bus_type": "danfo",
+   "route_number": 87,
+   "driver": "Tope Okoro",
+   "seats": 18
+  },
+  {
+   "plate": "HMY-566LE",
+   "bus_type": "danfo",
+   "route_number": 11,
+   "driver": "Rasheed Okoro",
+   "seats": 14
+  },
+  {
+   "plate": "IAF-473RD",
+   "bus_type": "keke",
+   "route_number": 14,
+   "driver": "Rasheed Nwachukwu",
+   "seats": 60
+  },
+  {
+   "plate": "PYR-494FO",
+   "bus_type": "danfo",
+   "route_number": 14,
+   "driver": "Sunday Salami",
+   "seats": 42
+  },
+  {
+   "plate": "MWI-953UN",
+   "bus_type": "danfo",
+   "route_number": 157,
+   "driver": "Sunday Musa",
+   "seats": 60
+  },
+  {
+   "plate": "FFZ-422BD",
+   "bus_type": "brt",
+   "route_number": 157,
+   "driver": "Emeka Salami",
+   "seats": 42
+  },
+  {
+   "plate": "QKX-618WN",
+   "bus_type": "danfo",
+   "route_number": 69,
+   "driver": "Chinedu Ogunleye",
+   "seats": 18
+  },
+  {
+   "plate": "XOU-895WO",
+   "bus_type": "brt",
+   "route_number": 48,
+   "driver": "Sunday Musa",
+   "seats": 42
+  },
+  {
+   "plate": "NTL-872CH",
+   "bus_type": "keke",
+   "route_number": 96,
+   "driver": "Segun Ogunleye",
+   "seats": 14
+  },
+  {
+   "plate": "ITJ-715BH",
+   "bus_type": "danfo",
+   "route_number": 2,
+   "driver": "Friday Bello",
+   "seats": 60
+  },
+  {
+   "plate": "URC-237IT",
+   "bus_type": "brt",
+   "route_number": 87,
+   "driver": "Tope Salami",
+   "seats": 14
+  },
+  {
+   "plate": "VOA-668ZY",
+   "bus_type": "keke",
+   "route_number": 69,
+   "driver": "Segun Eze",
+   "seats": 3
+  },
+  {
+   "plate": "JUX-547QZ",
+   "bus_type": "keke",
+   "route_number": 21,
+   "driver": "Kabiru Obi",
+   "seats": 3
+  },
+  {
+   "plate": "XGG-580ZE",
+   "bus_type": "keke",
+   "route_number": 2,
+   "driver": "Yusuf Eze",
+   "seats": 14
+  },
+  {
+   "plate": "ZEB-974PZ",
+   "bus_type": "keke",
+   "route_number": 181,
+   "driver": "Rasheed Musa",
+   "seats": 14
+  },
+  {
+   "plate": "IKB-941UL",
+   "bus_type": "keke",
+   "route_number": 11,
+   "driver": "Rasheed Bello",
+   "seats": 14
+  },
+  {
+   "plate": "WSQ-914NP",
+   "bus_type": "keke",
+   "route_number": 29,
+   "driver": "Bright Adewale",
+   "seats": 42
+  },
+  {
+   "plate": "DKT-956WQ",
+   "bus_type": "brt",
+   "route_number": 109,
+   "driver": "Segun Salami",
+   "seats": 18
+  },
+  {
+   "plate": "GPY-455NZ",
+   "bus_type": "keke",
+   "route_number": 11,
+   "driver": "Yusuf Nwachukwu",
+   "seats": 18
+  },
+  {
+   "plate": "YCW-302MD",
+   "bus_type": "danfo",
+   "route_number": 48,
+   "driver": "Tope Adewale",
+   "seats": 14
+  },
+  {
+   "plate": "RKH-753JO",
+   "bus_type": "brt",
+   "route_number": 116,
+   "driver": "Sunday Bello",
+   "seats": 14
+  },
+  {
+   "plate": "CFG-826LJ",
+   "bus_type": "keke",
+   "route_number": 14,
+   "driver": "Emeka Lawal",
+   "seats": 42
+  },
+  {
+   "plate": "YBO-620OK",
+   "bus_type": "keke",
+   "route_number": 155,
+   "driver": "Tope Eze",
+   "seats": 60
+  },
+  {
+   "plate": "NKE-658IL",
+   "bus_type": "danfo",
+   "route_number": 87,
+   "driver": "Yusuf Lawal",
+   "seats": 3
+  },
+  {
+   "plate": "BJS-774FG",
+   "bus_type": "danfo",
+   "route_number": 69,
+   "driver": "Emeka Lawal",
+   "seats": 60
+  },
+  {
+   "plate": "YEQ-917SI",
+   "bus_type": "danfo",
+   "route_number": 2,
+   "driver": "Chinedu Lawal",
+   "seats": 3
+  },
+  {
+   "plate": "KYZ-582EA",
+   "bus_type": "danfo",
+   "route_number": 157,
+   "driver": "Sunday Salami",
+   "seats": 3
+  },
+  {
+   "plate": "PAL-204JH",
+   "bus_type": "brt",
+   "route_number": 14,
+   "driver": "Yusuf Salami",
+   "seats": 18
+  },
+  {
+   "plate": "DTX-302HH",
+   "bus_type": "keke",
+   "route_number": 98,
+   "driver": "Yusuf Eze",
+   "seats": 60
+  },
+  {
+   "plate": "UMP-749SV",
+   "bus_type": "brt",
+   "route_number": 87,
+   "driver": "Rasheed Okoro",
+   "seats": 42
+  },
+  {
+   "plate": "EYP-762MK",
+   "bus_type": "danfo",
+   "route_number": 21,
+   "driver": "Friday Salami",
+   "seats": 3
+  },
+  {
+   "plate": "SLP-980ZS",
+   "bus_type": "keke",
+   "route_number": 34,
+   "driver": "Chinedu Adewale",
+   "seats": 18
+  },
+  {
+   "plate": "NLN-886ZI",
+   "bus_type": "brt",
+   "route_number": 34,
+   "driver": "Rasheed Eze",
+   "seats": 18
+  },
+  {
+   "plate": "MWI-815HC",
+   "bus_type": "keke",
+   "route_number": 44,
+   "driver": "Chinedu Adewale",
+   "seats": 60
+  },
+  {
+   "plate": "KMH-338LV",
+   "bus_type": "danfo",
+   "route_number": 109,
+   "driver": "Sunday Ogunleye",
+   "seats": 14
+  },
+  {
+   "plate": "VWO-181CR",
+   "bus_type": "danfo",
+   "route_number": 2,
+   "driver": "Segun Musa",
+   "seats": 3
+  },
+  {
+   "plate": "LEV-372XC",
+   "bus_type": "brt",
+   "route_number": 44,
+   "driver": "Rasheed Musa",
+   "seats": 14
+  },
+  {
+   "plate": "FSR-300MN",
+   "bus_type": "danfo",
+   "route_number": 157,
+   "driver": "Chinedu Nwachukwu",
+   "seats": 14
+  },
+  {
+   "plate": "KCG-255SE",
+   "bus_type": "brt",
+   "route_number": 129,
+   "driver": "Friday Lawal",
+   "seats": 14
+  },
+  {
+   "plate": "LDC-730KO",
+   "bus_type": "danfo",
+   "route_number": 29,
+   "driver": "Tope Eze",
+   "seats": 14
+  },
+  {
+   "plate": "JYC-186AO",
+   "bus_type": "danfo",
+   "route_number": 142,
+   "driver": "Tope Nwachukwu",
+   "seats": 60
+  },
+  {
+   "plate": "XYQ-362RI",
+   "bus_type": "danfo",
+   "route_number": 14,
+   "driver": "Chinedu Ogunleye",
+   "seats": 18
+  },
+  {
+   "plate": "PKV-127GD",
+   "bus_type": "brt",
+   "route_number": 155,
+   "driver": "Kabiru Obi",
+   "seats": 3
+  },
+  {
+   "plate": "QKK-835RP",
+   "bus_type": "danfo",
+   "route_number": 14,
+   "driver": "Bright Bello",
+   "seats": 18
+  },
+  {
+   "plate": "CND-643GJ",
+   "bus_type": "brt",
+   "route_number": 119,
+   "driver": "Friday Musa",
+   "seats": 3
+  },
+  {
+   "plate": "AUW-864ER",
+   "bus_type": "danfo",
+   "route_number": 181,
+   "driver": "Chinedu Ogunleye",
+   "seats": 14
+  },
+  {
+   "plate": "RRT-969CA",
+   "bus_type": "danfo",
+   "route_number": 157,
+   "driver": "Sunday Nwachukwu",
+   "seats": 3
+  },
+  {
+   "plate": "WSB-845VH",
+   "bus_type": "keke",
+   "route_number": 48,
+   "driver": "Yusuf Okoro",
+   "seats": 42
+  },
+  {
+   "plate": "OUR-625FC",
+   "bus_type": "brt",
+   "route_number": 61,
+   "driver": "Sunday Nwachukwu",
+   "seats": 14
+  },
+  {
+   "plate": "SRP-200UO",
+   "bus_type": "danfo",
+   "route_number": 174,
+   "driver": "Chinedu Bello",
+   "seats": 3
+  },
+  {
+   "plate": "BSW-883IA",
+   "bus_type": "danfo",
+   "route_number": 180,
+   "driver": "Friday Ogunleye",
+   "seats": 14
+  },
+  {
+   "plate": "ABA-760JB",
+   "bus_type": "brt",
+   "route_number": 29,
+   "driver": "Friday Nwachukwu",
+   "seats": 60
+  },
+  {
+   "plate": "MZP-705MF",
+   "bus_type": "danfo",
+   "route_number": 96,
+   "driver": "Sunday Nwachukwu",
+   "seats": 60
+  },
+  {
+   "plate": "FLM-535JE",
+   "bus_type": "danfo",
+   "route_number": 129,
+   "driver": "Emeka Adewale",
+   "seats": 14
+  },
+  {
+   "plate": "BJZ-625VD",
+   "bus_type": "danfo",
+   "route_number": 96,
+   "driver": "Bright Ogunleye",
+   "seats": 42
+  },
+  {
+   "plate": "FQV-626XJ",
+   "bus_type": "brt",
+   "route_number": 14,
+   "driver": "Sunday Adewale",
+   "seats": 18
+  },
+  {
+   "plate": "SPB-564ZK",
+   "bus_type": "danfo",
+   "route_number": 157,
+   "driver": "Friday Adewale",
+   "seats": 18
+  }
+ ]
+}
