@@ -103,15 +103,15 @@ not an error either — that's a `200` with an empty `results` list.
 
 | Request | Expected |
 |---|---|
-| `GET /routes/0` | `422` — below the doorway's range |
-| `GET /routes/150` | `404` — in range, but no such route |
+| `GET /routes/0` | `422` - below the doorway's range |
+| `GET /routes/150` | `404` - in range, but no such route |
 | `GET /routes/34` | `200` |
-| `GET /buses/banana` | `422` — doesn't match the plate shape |
+| `GET /buses/banana` | `422` - doesn't match the plate shape |
 | A well-shaped plate the union doesn't own | `404` |
-| `GET /search?destination=aj` | `422` — under 3 characters |
+| `GET /search?destination=aj` | `422` - under 3 characters |
 | `GET /search?destination=Ajah&max_fare=500` | `200`, filtered |
-| `GET /routes/34/stops?limit=50` | `422` — over the doorway's cap of 10 |
-| `GET /fleet/okada` | `422` — not one of the three known kinds |
+| `GET /routes/34/stops?limit=50` | `422` - over the doorway's cap of 10 |
+| `GET /fleet/okada` | `422` - not one of the three known kinds |
 
 ## Submission note
 
